@@ -14,6 +14,7 @@ node
     }
     stage ("test")
     {
+       
         echo("test the code")
     }
 }
